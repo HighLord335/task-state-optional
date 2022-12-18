@@ -31,7 +31,7 @@ img{width:35px;margin-left:20px;}
   padding:30px 0;
 }
 .text-content{
-  color:#fca120;
+  color:#007bff;
 }
 
 .text-content:before {
@@ -44,7 +44,7 @@ img{width:35px;margin-left:20px;}
 }
 
 .text-content:after{
-	 color: #fca120;
+	 color: #007bff;
 	 font-size: 42px;
 	 line-height: 40px;
 	 -webkit-animation-name: opacity;
@@ -56,7 +56,7 @@ img{width:35px;margin-left:20px;}
 }
 
 .text-content:before{
-  color: #fca120;
+  color: #007bff;
 	 font-size: 42px;
 	 line-height: 40px;
 	 -webkit-animation-name: opacity;
